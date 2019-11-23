@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deployedPlanets/static/css/main.6479d88a.chunk.css",
+    "main.js": "/deployedPlanets/static/js/main.47d7ef87.chunk.js",
+    "main.js.map": "/deployedPlanets/static/js/main.47d7ef87.chunk.js.map",
+    "runtime-main.js": "/deployedPlanets/static/js/runtime-main.d982cb4c.js",
+    "runtime-main.js.map": "/deployedPlanets/static/js/runtime-main.d982cb4c.js.map",
+    "static/js/2.ab1301b6.chunk.js": "/deployedPlanets/static/js/2.ab1301b6.chunk.js",
+    "static/js/2.ab1301b6.chunk.js.map": "/deployedPlanets/static/js/2.ab1301b6.chunk.js.map",
+    "index.html": "/deployedPlanets/index.html",
+    "precache-manifest.415c227a19b3a26763eef1f9aad0f8a1.js": "/deployedPlanets/precache-manifest.415c227a19b3a26763eef1f9aad0f8a1.js",
+    "service-worker.js": "/deployedPlanets/service-worker.js",
+    "static/css/main.6479d88a.chunk.css.map": "/deployedPlanets/static/css/main.6479d88a.chunk.css.map",
+    "static/media/image2.png": "/deployedPlanets/static/media/image2.f6633d71.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d982cb4c.js",
+    "static/js/2.ab1301b6.chunk.js",
+    "static/css/main.6479d88a.chunk.css",
+    "static/js/main.47d7ef87.chunk.js"
+  ]
+}
